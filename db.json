@@ -1,18 +1,11 @@
 {
   "fotos": [
-    { "id": 1, "albumId": 1, "titulo": "Paisagem Montanhosa", "url": "https://picsum.photos/id/1015/600/400" },
-    { "id": 2, "albumId": 1, "titulo": "Cachoeira Serena", "url": "https://picsum.photos/id/1016/600/400" },
-    { "id": 3, "albumId": 1, "titulo": "Rio ao Entardecer", "url": "https://picsum.photos/id/1020/600/400" },
-    { "id": 4, "albumId": 2, "titulo": "Cidade Noturna", "url": "https://picsum.photos/id/1031/600/400" },
-    { "id": 5, "albumId": 2, "titulo": "Avenida Central", "url": "https://picsum.photos/id/1043/600/400" },
-    { "id": 6, "albumId": 2, "titulo": "Horizonte Urbano", "url": "https://picsum.photos/id/1052/600/400" },
-    
-    { "id": 7, "albumId": 3, "titulo": "Floresta Tropical", "url": "https://picsum.photos/id/1069/600/400" },
-    { "id": 8, "albumId": 3, "titulo": "Folhagem Densa", "url": "https://picsum.photos/id/1074/600/400" },
-    { "id": 9, "albumId": 3, "titulo": "Caminho Verde", "url": "https://picsum.photos/id/1084/600/400" },
-    
-    { "id": 10, "albumId": 4, "titulo": "Praia Paradisíaca", "url": "https://picsum.photos/id/1011/600/400" },
-    { "id": 11, "albumId": 4, "titulo": "Mar Azul", "url": "https://picsum.photos/id/1003/600/400" },
-    { "id": 12, "albumId": 4, "titulo": "Pôr do Sol", "url": "https://picsum.photos/id/1002/600/400" }
+    {
+      "id": 1,
+      "albumId": 1,
+      "titulo": "Paisagem Montanhosa",
+      "url": "https://picsum.photos/id/1018/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1018/200/200"
+    }
   ]
 }
